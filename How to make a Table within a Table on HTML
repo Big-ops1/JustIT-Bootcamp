@@ -1,0 +1,77 @@
+  <table border="1">
+
+        <thead>
+            <tr>
+                <th>Name of Car-Maker</th>
+                <th>Name of Car Model</th>
+                <th>Engine Size in Litres</th>
+                <th></th>
+                <th>Year of Manufacture</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Mercedes Benz</td>
+                <td>Mercedes Benz G-Wagon</td>
+                <td>3.5L Engine</td>
+                <td></td>
+                <td>2018</td>
+            </tr>
+
+            <tr>
+                <td>Rolls Royce</td>
+                <td>Rolls Royce Phantom</td>
+                <td>3.8L Engine</td>
+                <td>
+                    <table border="1">
+                        <thead>
+                            <tr>
+                                <th>Different Engine Sizes for Rolls Royce Phantom</th>
+                            </tr>
+                        </thead>
+                        <tr>
+                            <td>June Model</td>
+                            <td>3.4L</td>
+                        </tr>
+
+                        <tr>
+                            <td>August Model</td>
+                            <td>3.6L</td>
+                        </tr>
+
+                        <tr>
+                            <td>December Model</td>
+                            <td>3.8L</td>
+                        </tr>
+                    </table>
+                </td>
+                <td>2019</td>
+            </tr>
+
+            <tr>
+                <td>BMW</td>
+                <td>BMW I-8</td>
+                <td>3.3L Engine</td>
+                <td></td>
+                <td>2020</td>
+            </tr>
+
+            <tr>
+                <td>Audi</td>
+                <td>Audi R8</td>
+                <td>3L Engine</td>
+                <td></td>
+                <td>2022</td>
+            </tr>
+
+            <tr>
+                <td colspan="5">
+                    <strong>A list of cars put on an auction</strong>
+                </td>
+            </tr>
+
+
+        </tbody>
+
+    </table>
